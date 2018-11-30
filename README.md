@@ -58,6 +58,7 @@ https://gitee.com/lcg0124/clouddo.git
   
 第四步：启动前端
 （1）新开一个命令行窗口
+  npm install node-sass
 （2）定位到项目目录并安装依赖
   > cd 你自己的位置/clouddo-view
   > npm install
